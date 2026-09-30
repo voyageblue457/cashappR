@@ -1,3 +1,3 @@
-export const API_URL =  "https://cash-app-api.vercel.app";
+export const API_URL =  "https://backend.craftideass.com";
 
 export const site =  "py-cash.online";
